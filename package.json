@@ -1,0 +1,24 @@
+{
+  "name": "pixelz",
+  "version": "1.0.0",
+  "description": "Pixelz App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thegoldenjewls/Pixelz-Project.git"
+  },
+  "author": "Julian Coronado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thegoldenjewls/Pixelz-Project/issues"
+  },
+  "homepage": "https://github.com/Thegoldenjewls/Pixelz-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
